@@ -1,22 +1,19 @@
-### 👋 Hello World!
+<h2>👋 Hello World!</h2>
 
 ```
 ivone = {
-	"name": "ivone",
+	"name": "Ivone",
 	"age": 15,
-	"location": "croatia",
+	"location": "Croatia",
 	"pronouns": "he/him",
+	"languages": ["Python", "C#", "Java", "JavaScript"]
+	"editors": ["Visual Studio", "Sublime Text", "PyCharm", "VS Code"]
 }
 ```
 
-### 👨‍💻 Languages
-- 🐍 Python
-- ☕ C#
-- 💎 Java
-- ✨ and a little bit of JS
+<h2>👨‍💻 Projects!</h2>
 
-### 🗒️ Editors
-- Visual Studio
-- Sublime Text
-- PyCharm
-- VS Code
+Here are some projects I've worked on that you should totally check out!
+
+- [Discord RAT](https://github.com/i-vone/discord-rat): A Discord Remote Access Tool written in Python.
+- [Hacker News](https://github.com/i-vone/hacker-news): A recreation of Hacker News made with React.js.
