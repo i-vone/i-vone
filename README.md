@@ -17,3 +17,4 @@ Here are some projects I've worked on that you should totally check out!
 
 - [Discord RAT](https://github.com/i-vone/discord-rat): A Discord Remote Access Tool written in Python.
 - [Hacker News](https://github.com/i-vone/hacker-news): A recreation of Hacker News made with React.js.
+- [Solstice](https://github.com/i-vone/solstice): Community based Q&A website made using the MERN stack.
